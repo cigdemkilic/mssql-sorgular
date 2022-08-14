@@ -1,2 +1,1 @@
-
-northwind veri tabanı sorgu örnekleri
+NORTHWIND VERİTABANI SORGU ÖRNEKLERİ
